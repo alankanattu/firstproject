@@ -1,4 +1,4 @@
-const int pingPin = 7;
+const int pingPin = 8;
 
 void setup() {
   // initialize serial communication:
